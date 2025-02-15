@@ -1,4 +1,6 @@
-###CW LICENSE
+CW LICENSE
+
+====
 
 @Copyright (C) 2024-present Chuwu/HatsuChuwu
 
