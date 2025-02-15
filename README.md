@@ -39,6 +39,3 @@ You must comply with all applicable laws and regulations when using the Software
 
 By adhering to the terms of the CW LICENSE, you can use the Software for non-commercial purposes while respecting the Author's rights. For commercial use, please contact the Author for a commercial license. If you have any questions, refer to the contact information provided.
 
----
-
-This simplified README should help users quickly understand the key aspects of the CW LICENSE and how to comply with its terms.
